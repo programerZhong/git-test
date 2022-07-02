@@ -17,5 +17,6 @@ public class TestGit {
         System.out.println("new changes ，master");
         System.out.println("second changes ，master");
         System.out.println("changed by gitHub，online");
+        System.out.println("github更新");
     }
 }
