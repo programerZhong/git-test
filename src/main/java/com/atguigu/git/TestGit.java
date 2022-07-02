@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println("添加了git3");
         System.out.println("添加了git4");
         System.out.println("添加了git5");
+        System.out.println("添加了git5，master分支");
     }
 }
