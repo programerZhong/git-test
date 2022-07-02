@@ -16,5 +16,6 @@ public class TestGit {
         System.out.println("添加了git5，hot-fix");
         System.out.println("new changes ，master");
         System.out.println("second changes ，master");
+        System.out.println("changed by gitHub，online");
     }
 }
